@@ -144,7 +144,3 @@ Abrindo na porta padrão que o React usa: <http://localhost:3000/> em seu navega
 ![Mobile Screenshot](./src/images/drinks.png)
 
 #
-
-<div>
-  <p align="center">🍐</p>
-</div>
