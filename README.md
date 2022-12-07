@@ -29,7 +29,7 @@ git clone git@github.com:lauropera/bechef.git
 ### 2 - Apos ter o repositório clonado em sua maquina, execute este comando para acessar a pasta do projeto:
 
 ```sh
-cd bechef
+cd vovomoderna
 ```
 
 ### 3 - Dentro da pasta do projeto, execute o comando abaixo para instalar as dependências do projeto:
