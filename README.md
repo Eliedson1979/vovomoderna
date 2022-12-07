@@ -139,8 +139,8 @@ Abrindo na porta padrão que o React usa: <http://localhost:3000/> em seu navega
 
 # 📷 Screenshots
 
-![Mobile Screenshot](./src/images/screenshot-1.png)
-![Mobile Screenshot](./src/images/screenshot-2.png)
+![Mobile Screenshot](./src/images/foods.png)
+![Mobile Screenshot](./src/images/drinks.png)
 
 #
 
