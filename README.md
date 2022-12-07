@@ -1,70 +1,149 @@
-# Getting Started with Create React App
+# 🥞 VovóModerna
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Preview Projeto](./src/images/Readme-preview.png)
 
-## Available Scripts
+## Acesse o projeto clicando <a href="https://lauropera.github.io/bechef/">AQUI</a>
 
-In the project directory, you can run:
+<br />
 
-### `npm start`
+## 📡 Desenvolvimento
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Projeto desenvolvido por <a href="https://www.linkedin.com/in/lauro-pereira-sr/" target="_blank">Lauro Pereira</a>, <a href="https://www.linkedin.com/in/thiagovianadev/" target="_blank">Thiago Viana</a>, <a href="https://www.linkedin.com/in/pablo-souza-peixoto-aa9a4b1a3/" target="_blank">Pablo Souza</a>, <a href="https://www.linkedin.com/in/marcellrochapena/" target="_blank">Marcel Rocha</a> e <a href="https://www.linkedin.com/in/vin%C3%ADcius-santiago-a02bb0201/" target="_blank">Vinícius Santiago</a> na <a href="https://betrybe.com/" target="_blank">Trybe</a> durante o módulo de Front-End!
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Nesse projeto em grupo desenvolvemos um aplicativo de Receitas, onde você pode aprender com novas, já conhecidas, compartilhar o link dela para seus amigos e acompanhar seu progresso em quantas já foram feitas. Utilizamos duas APIs públicas para as informações das receitas.
 
-### `npm test`
+<br />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚀 Instalação e execução
 
-### `npm run build`
+  <details>
+    <summary>Instalando e executando</summary>
+    <br />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 1 - Clone o repositório:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+git clone git@github.com:lauropera/bechef.git
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 2 - Apos ter o repositório clonado em sua maquina, execute este comando para acessar a pasta do projeto:
 
-### `npm run eject`
+```sh
+cd bechef
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 3 - Dentro da pasta do projeto, execute o comando abaixo para instalar as dependências do projeto:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Caso utilize o npm:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```sh
+npm install
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Caso utilize o yarn:
 
-## Learn More
+```sh
+yarn install
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### 4 - Dentro da pasta do projeto, execute o comando abaixo para iniciar o servidor do projeto:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Caso utilize o npm:
 
-### Code Splitting
+```sh
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Caso utilize o yarn:
 
-### Analyzing the Bundle Size
+```sh
+yarn start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### 5 - Acesse a aplicação:
 
-### Making a Progressive Web App
+Abrindo na porta padrão que o React usa: <http://localhost:3000/> em seu navegador.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+  </details>
+<br />
 
-### Advanced Configuration
+## 📜 Metodologias
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- Mobile First
+- Kanban
+- Scrum
 
-### Deployment
+<br />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## ⚙️ Tecnologias
 
-### `npm run build` fails to minify
+- HTML5
+- CSS
+- JavaScript ES6+
+- React.js
+- Context API
+- React Icons
+- React Testing Library (RTL)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<br />
+
+## 👥 Equipe
+
+<br />
+<table>
+  <tr>
+      <td align="center">
+      <a href="https://github.com/lauropera">
+        <img src="https://avatars.githubusercontent.com/u/96854380?v=4" width="100px;" alt="Foto de Lauro Pereira no GitHub"/><br>
+        <sub>
+          <b>Lauro Pereira</b>
+        </sub>
+      </a>
+    </td>
+      <td align="center">
+      <a href="https://github.com/thiagorvianas">
+        <img src="https://avatars.githubusercontent.com/u/94135495?v=4" width="100px;" alt="Foto de Thiago Viana no GitHub"/><br>
+        <sub>
+          <b>Thiago Viana</b>
+        </sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="https://github.com/Paludio">
+        <img src="https://avatars.githubusercontent.com/u/102391652?v=4" width="100px;" alt="Foto de Pablo Souza no GitHub"/><br>
+        <sub>
+          <b>Pablo Souza</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/marcellrpena">
+        <img src="https://avatars.githubusercontent.com/u/88504860?v=4" width="100px;" alt="Foto de Marcell Pena no GitHub"/><br>
+        <sub>
+          <b>Marcell Pena</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/viniciussnx">
+        <img src="https://avatars.githubusercontent.com/u/31862989?v=4" width="100px;" alt="Foto de Vinícius Santiago no GitHub"/><br>
+        <sub>
+          <b>Vinícius Santiago</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+# 📷 Screenshots
+
+![Mobile Screenshot](./src/images/screenshot-1.png)
+![Mobile Screenshot](./src/images/screenshot-2.png)
+
+#
+
+<div>
+  <p align="center">🍐</p>
+</div>
