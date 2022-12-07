@@ -2,7 +2,7 @@
 
 ![Preview Projeto](./src/images/Readme-preview.png)
 
-## Acesse o projeto clicando <a href="https://lauropera.github.io/bechef/">AQUI</a>
+## Acesse o projeto clicando <a href="https://Eliedson.github.io/bechef/">AQUI</a>
 
 <br />
 
