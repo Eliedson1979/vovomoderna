@@ -2,15 +2,15 @@
 
 ![Preview Projeto](./src/images/Readme-preview.png)
 
-## Acesse o projeto clicando <a href="https://Eliedson.github.io/bechef/">AQUI</a>
+## Acesse o projeto clicando <a href="https://vovomoderna.vercel.app/">AQUI</a>
 
 <br />
 
 ## 📡 Desenvolvimento
 
-Projeto desenvolvido por <a href="https://www.linkedin.com/in/lauro-pereira-sr/" target="_blank">Lauro Pereira</a>, <a href="https://www.linkedin.com/in/thiagovianadev/" target="_blank">Thiago Viana</a>, <a href="https://www.linkedin.com/in/pablo-souza-peixoto-aa9a4b1a3/" target="_blank">Pablo Souza</a>, <a href="https://www.linkedin.com/in/marcellrochapena/" target="_blank">Marcel Rocha</a> e <a href="https://www.linkedin.com/in/vin%C3%ADcius-santiago-a02bb0201/" target="_blank">Vinícius Santiago</a> na <a href="https://betrybe.com/" target="_blank">Trybe</a> durante o módulo de Front-End!
+Projeto desenvolvido por <a href="https://www.linkedin.com/in/eliedson-gomes/" target="_blank">Eliedson Gomes</a>, <a href="https://www.linkedin.com/in/joaovictorschiavon/" target="_blank">Joao Victor</a>, Robson Silva, Marciel Santana, Rafael Bleyer, na <a href="https://betrybe.com/" target="_blank">Trybe</a> durante o módulo de Front-End!
 
-Nesse projeto em grupo desenvolvemos um aplicativo de Receitas, onde você pode aprender com novas, já conhecidas, compartilhar o link dela para seus amigos e acompanhar seu progresso em quantas já foram feitas. Utilizamos duas APIs públicas para as informações das receitas.
+Nesse projeto em grupo desenvolvemos um aplicativo de Receitas, onde você pode aprender com novas receitas, já conhecidas, compartilhe o link dela para seus amigos e acompanhar seu progresso em quantas receitas já foram feitas. Utilizamos duas APIs públicas para as informações das receitas.
 
 <br />
 
@@ -23,7 +23,7 @@ Nesse projeto em grupo desenvolvemos um aplicativo de Receitas, onde você pode 
 ### 1 - Clone o repositório:
 
 ```
-git clone git@github.com:lauropera/bechef.git
+git clone git@github.com:Eliedson1979/vovomoderna.git
 ```
 
 ### 2 - Apos ter o repositório clonado em sua maquina, execute este comando para acessar a pasta do projeto:
@@ -93,42 +93,42 @@ Abrindo na porta padrão que o React usa: <http://localhost:3000/> em seu navega
 <table>
   <tr>
       <td align="center">
-      <a href="https://github.com/lauropera">
-        <img src="https://avatars.githubusercontent.com/u/96854380?v=4" width="100px;" alt="Foto de Lauro Pereira no GitHub"/><br>
+      <a href="https://github.com/Eliedson1979">
+        <img src="https://avatars.githubusercontent.com/u/18033491?v=4" width="100px;" alt="Foto de Eliedson Gomes no GitHub"/><br>
         <sub>
-          <b>Lauro Pereira</b>
+          <b>Eliedson Gomes</b>
         </sub>
       </a>
     </td>
       <td align="center">
-      <a href="https://github.com/thiagorvianas">
-        <img src="https://avatars.githubusercontent.com/u/94135495?v=4" width="100px;" alt="Foto de Thiago Viana no GitHub"/><br>
+      <a href="https://github.com/joaovictorschiavon">
+        <img src="https://avatars.githubusercontent.com/u/94135495?v=4" width="100px;" alt="Foto de João Victor no GitHub"/><br>
         <sub>
-          <b>Thiago Viana</b>
+          <b>João Victor</b>
         </sub>
       </a>
     </td>
         <td align="center">
-      <a href="https://github.com/Paludio">
-        <img src="https://avatars.githubusercontent.com/u/102391652?v=4" width="100px;" alt="Foto de Pablo Souza no GitHub"/><br>
+      <a href="https://github.com/rafabzf">
+        <img src="https://avatars.githubusercontent.com/u/100335930?v=4" width="100px;" alt="Foto de Rafael Bleyer no GitHub"/><br>
         <sub>
-          <b>Pablo Souza</b>
+          <b>Rafael Bleyer</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/marcellrpena">
-        <img src="https://avatars.githubusercontent.com/u/88504860?v=4" width="100px;" alt="Foto de Marcell Pena no GitHub"/><br>
+      <a href="https://github.com/rm-l">
+        <img src="https://avatars.githubusercontent.com/u/106616923?v=4" width="100px;" alt="Foto de Robson Silva no GitHub"/><br>
         <sub>
-          <b>Marcell Pena</b>
+          <b>Robson Silva</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/viniciussnx">
-        <img src="https://avatars.githubusercontent.com/u/31862989?v=4" width="100px;" alt="Foto de Vinícius Santiago no GitHub"/><br>
+      <a href="https://github.com/MarcielSantana">
+        <img src="https://avatars.githubusercontent.com/u/104797795?v=4" width="100px;" alt="Foto de Marciel Santana no GitHub"/><br>
         <sub>
-          <b>Vinícius Santiago</b>
+          <b>Marciel Santana</b>
         </sub>
       </a>
     </td>
