@@ -72,6 +72,7 @@ Abrindo na porta padrão que o React usa: <http://localhost:3000/> em seu navega
 - Mobile First
 - Kanban
 - Scrum
+- Trello
 
 <br />
 
@@ -102,7 +103,7 @@ Abrindo na porta padrão que o React usa: <http://localhost:3000/> em seu navega
     </td>
       <td align="center">
       <a href="https://github.com/joaovictorschiavon">
-        <img src="https://avatars.githubusercontent.com/u/94135495?v=4" width="100px;" alt="Foto de João Victor no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/75813676?v=4" width="100px;" alt="Foto de João Victor no GitHub"/><br>
         <sub>
           <b>João Victor</b>
         </sub>
