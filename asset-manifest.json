@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vovomoderna/static/css/main.f30bc892.css",
+    "main.js": "/vovomoderna/static/js/main.7d97fe0c.js",
+    "static/media/exploreIcon.svg": "/vovomoderna/static/media/exploreIcon.076346236f69318885d7f53b65f0e4c7.svg",
+    "static/media/logo.gif": "/vovomoderna/static/media/logo.5f8147ac7795c64d92fa.gif",
+    "static/media/mealIcon.svg": "/vovomoderna/static/media/mealIcon.40029e7f1422ba5a1bf1c10fa4f59030.svg",
+    "static/media/shareIcon.svg": "/vovomoderna/static/media/shareIcon.87def1bd1dff9af9263f046c3b9bd31a.svg",
+    "static/media/profileIcon.svg": "/vovomoderna/static/media/profileIcon.44eb3608f431845fe2fc2d2a23d758ae.svg",
+    "static/media/whiteHeartIcon.svg": "/vovomoderna/static/media/whiteHeartIcon.2b822118952dc5140129c6349fcd0472.svg",
+    "static/media/searchIcon.svg": "/vovomoderna/static/media/searchIcon.7353564d025de989f86f66ecb0202a04.svg",
+    "static/media/blackHeartIcon.svg": "/vovomoderna/static/media/blackHeartIcon.083cb006913d197c95857ebfa2161db7.svg",
+    "static/media/drinkIcon.svg": "/vovomoderna/static/media/drinkIcon.efc0d3c156e5da73e44a826c8d67b142.svg",
+    "index.html": "/vovomoderna/index.html",
+    "main.f30bc892.css.map": "/vovomoderna/static/css/main.f30bc892.css.map",
+    "main.7d97fe0c.js.map": "/vovomoderna/static/js/main.7d97fe0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f30bc892.css",
+    "static/js/main.7d97fe0c.js"
+  ]
+}
